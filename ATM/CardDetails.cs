@@ -13,4 +13,3 @@ namespace BANKING_APPLICATION
         public string CVC { get; set; }
     }
 }
-

@@ -18,3 +18,4 @@ C:\Users\george.chkhaidze\source\repos\ATM\ATM\obj\Debug\net5.0\BANKING_APPLICAT
 C:\Users\george.chkhaidze\source\repos\ATM\ATM\obj\Debug\net5.0\BANKING_APPLICATION.csproj.CopyComplete
 C:\Users\george.chkhaidze\source\repos\ATM\ATM\bin\Debug\net5.0\NLog.config
 C:\Users\george.chkhaidze\source\repos\ATM\ATM\bin\Debug\net5.0\NLog.dll
+C:\Users\george.chkhaidze\source\repos\ATM\ATM\obj\Debug\net5.0\BANKING_APPLICATION.sourcelink.json
