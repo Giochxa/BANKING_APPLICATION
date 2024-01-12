@@ -1,0 +1,578 @@
+[
+  {
+    "firstName": "John",
+    "lastName": "Doe",
+    "cardDetails": {
+      "cardNumber": "1234",
+      "expirationDate": "12/25",
+      "CVC": "123"
+    },
+    "pinCode": "1111",
+    "transactionHistory": [
+      {
+        "transactionDate": "2024-01-12T14:24:39.2010897Z",
+        "transactionType": "Change Amount",
+        "amount": 10.0,
+        "amountGEL": 220.00,
+        "amountUSD": 22.22,
+        "amountEUR": 45.00
+      },
+      {
+        "transactionDate": "2024-01-12T14:08:19.0866213Z",
+        "transactionType": "Fill Amount",
+        "amount": 50.0,
+        "amountGEL": 230.00,
+        "amountUSD": 18.52,
+        "amountEUR": 45.00
+      },
+      {
+        "transactionDate": "2024-01-12T14:07:58.3676662Z",
+        "transactionType": "Get Transactions History",
+        "amount": 50.0,
+        "amountGEL": 259.99,
+        "amountUSD": 18.518518518518518518518518519,
+        "amountEUR": 45.00
+      },
+      {
+        "transactionDate": "2024-01-12T14:07:20.4865135Z",
+        "transactionType": "Get Amount",
+        "amount": 10.0,
+        "amountGEL": 180.00,
+        "amountUSD": 18.518518518518518518518518519,
+        "amountEUR": 45.00
+      },
+      {
+        "transactionDate": "2024-01-12T14:06:58.5996001Z",
+        "transactionType": "Get Amount",
+        "amount": 10.0,
+        "amountGEL": 190.00,
+        "amountUSD": 18.518518518518518518518518519,
+        "amountEUR": 45.00
+      },
+      {
+        "transactionDate": "2024-01-12T14:06:39.144129Z",
+        "transactionType": "Deposit Check",
+        "amount": 59.99,
+        "amountGEL": 200.00,
+        "amountUSD": 18.518518518518518518518518519,
+        "amountEUR": 45.00
+      },
+      {
+        "transactionDate": "2024-01-12T14:06:33.9298857Z",
+        "transactionType": "Get Amount",
+        "amount": 59.99,
+        "amountGEL": 200.00,
+        "amountUSD": 18.518518518518518518518518519,
+        "amountEUR": 45.00
+      },
+      {
+        "transactionDate": "2024-01-12T14:06:06.3398794Z",
+        "transactionType": "Deposit Check",
+        "amount": 50.0,
+        "amountGEL": 259.99,
+        "amountUSD": 18.518518518518518518518518519,
+        "amountEUR": 45.00
+      },
+      {
+        "transactionDate": "2024-01-12T14:05:35.9599576Z",
+        "transactionType": "Change Pin",
+        "amount": 50.0,
+        "amountGEL": 259.99,
+        "amountUSD": 18.518518518518518518518518519,
+        "amountEUR": 45.00
+      },
+      {
+        "transactionDate": "2024-01-12T14:04:22.858408Z",
+        "transactionType": "Change Pin",
+        "amount": 50.0,
+        "amountGEL": 259.99,
+        "amountUSD": 18.518518518518518518518518519,
+        "amountEUR": 45.00
+      },
+      {
+        "transactionDate": "2024-01-12T14:04:08.1820969Z",
+        "transactionType": "Change Pin",
+        "amount": 50.0,
+        "amountGEL": 259.99,
+        "amountUSD": 18.518518518518518518518518519,
+        "amountEUR": 45.00
+      },
+      {
+        "transactionDate": "2024-01-12T14:03:23.4311055Z",
+        "transactionType": "Deposit Check",
+        "amount": 50.0,
+        "amountGEL": 259.99,
+        "amountUSD": 18.518518518518518518518518519,
+        "amountEUR": 45.00
+      },
+      {
+        "transactionDate": "2024-01-12T13:18:43.6915666Z",
+        "transactionType": "Deposit Check",
+        "amount": 50.0,
+        "amountGEL": 259.99,
+        "amountUSD": 18.518518518518518518518518519,
+        "amountEUR": 45.00
+      },
+      {
+        "transactionDate": "2024-01-12T13:18:34.5274639Z",
+        "transactionType": "Change Amount",
+        "amount": 50.0,
+        "amountGEL": 259.99,
+        "amountUSD": 18.518518518518518518518518519,
+        "amountEUR": 45.00
+      },
+      {
+        "transactionDate": "2024-01-12T13:18:18.4910637Z",
+        "transactionType": "Deposit Check",
+        "amount": 120.0,
+        "amountGEL": 309.99,
+        "amountUSD": 0.0,
+        "amountEUR": 45.00
+      },
+      {
+        "transactionDate": "2024-01-12T13:13:34.123738Z",
+        "transactionType": "Get Transactions History",
+        "amount": 120.0,
+        "amountGEL": 309.99,
+        "amountUSD": 0.0,
+        "amountEUR": 45.00
+      },
+      {
+        "transactionDate": "2024-01-12T13:13:29.0049964Z",
+        "transactionType": "Deposit Check",
+        "amount": 100.0,
+        "amountGEL": 189.99,
+        "amountUSD": 0.0,
+        "amountEUR": 45.00
+      },
+      {
+        "transactionDate": "2024-01-12T13:07:57.4296887Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": 189.99,
+        "amountUSD": 0.0,
+        "amountEUR": 45.00
+      },
+      {
+        "transactionDate": "2024-01-12T13:07:15.4263257Z",
+        "transactionType": "Deposit Check",
+        "amount": 320.0,
+        "amountGEL": 629.99,
+        "amountUSD": 0.0,
+        "amountEUR": 45.00
+      },
+      {
+        "transactionDate": "2024-01-12T13:05:27.4897007Z",
+        "transactionType": "Deposit Check",
+        "amount": 320.0,
+        "amountGEL": 629.99,
+        "amountUSD": 0.0,
+        "amountEUR": 45.00
+      },
+      {
+        "transactionDate": "2024-01-12T10:49:17.7525495Z",
+        "transactionType": "Fill Amount",
+        "amount": 320.0,
+        "amountGEL": 629.99,
+        "amountUSD": 0.0,
+        "amountEUR": 45.00
+      },
+      {
+        "transactionDate": "2024-01-12T10:47:08.8176283Z",
+        "transactionType": "Fill Amount",
+        "amount": 120.0,
+        "amountGEL": 309.99,
+        "amountUSD": 0.0,
+        "amountEUR": 45.00
+      },
+      {
+        "transactionDate": "2024-01-12T10:10:45.6321824Z",
+        "transactionType": "Deposit Check",
+        "amount": 100.0,
+        "amountGEL": 189.99,
+        "amountUSD": 0.0,
+        "amountEUR": 45.00
+      },
+      {
+        "transactionDate": "2024-01-12T10:10:27.5239639Z",
+        "transactionType": "Fill Amount",
+        "amount": 100.0,
+        "amountGEL": 189.99,
+        "amountUSD": 0.0,
+        "amountEUR": 45.00
+      },
+      {
+        "transactionDate": "2024-01-12T10:10:15.1713449Z",
+        "transactionType": "Get Transactions History",
+        "amount": 15.0,
+        "amountGEL": 90.0,
+        "amountUSD": 0.0,
+        "amountEUR": 45.00
+      },
+      {
+        "transactionDate": "2024-01-12T10:10:07.7143249Z",
+        "transactionType": "Deposit Check",
+        "amount": 3.7,
+        "amountGEL": 89.99,
+        "amountUSD": 0.0037037037037037037037037037,
+        "amountEUR": 45.00
+      },
+      {
+        "transactionDate": "2024-01-12T09:22:08.9362353Z",
+        "transactionType": "Change Amount",
+        "amount": 3.7,
+        "amountGEL": 89.99,
+        "amountUSD": 0.0037037037037037037037037037,
+        "amountEUR": 45.00
+      },
+      {
+        "transactionDate": "2024-01-12T09:21:20.6905705Z",
+        "transactionType": "Deposit Check",
+        "amount": 10.0,
+        "amountGEL": 80.0,
+        "amountUSD": 3.7037037037037037037037037037,
+        "amountEUR": 45.00
+      },
+      {
+        "transactionDate": "2024-01-12T09:21:16.6229563Z",
+        "transactionType": "Change Amount",
+        "amount": 10.0,
+        "amountGEL": 80.0,
+        "amountUSD": 3.7037037037037037037037037037,
+        "amountEUR": 45.00
+      },
+      {
+        "transactionDate": "2024-01-12T09:20:53.0661957Z",
+        "transactionType": "Deposit Check",
+        "amount": 15.0,
+        "amountGEL": 90.0,
+        "amountUSD": 0.0,
+        "amountEUR": 45.00
+      },
+      {
+        "transactionDate": "2024-01-12T09:14:21.316545Z",
+        "transactionType": "Deposit Check",
+        "amount": 15.0,
+        "amountGEL": 90.0,
+        "amountUSD": 0.0,
+        "amountEUR": 45.00
+      },
+      {
+        "transactionDate": "2024-01-12T01:28:33.2081351Z",
+        "transactionType": "Change Amount",
+        "amount": 15.0,
+        "amountGEL": 90.0,
+        "amountUSD": 0.0,
+        "amountEUR": 45.00
+      },
+      {
+        "transactionDate": "2024-01-12T01:27:32.2511361Z",
+        "transactionType": "Get Amount",
+        "amount": 15.0,
+        "amountGEL": 105.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-01-12T01:26:29.2228971Z",
+        "transactionType": "Deposit Check",
+        "amount": 10.0,
+        "amountGEL": 120.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-01-12T01:26:24.0972049Z",
+        "transactionType": "Get Amount",
+        "amount": 10.0,
+        "amountGEL": 120.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-01-12T01:24:11.4543366Z",
+        "transactionType": "Get Amount",
+        "amount": 20.0,
+        "amountGEL": 130.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-01-12T01:15:16.1479742Z",
+        "transactionType": "Get Transactions History",
+        "amount": 0.0,
+        "amountGEL": 150.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-01-12T01:06:52.030692Z",
+        "transactionType": "Deposit Check",
+        "amount": 30.0,
+        "amountGEL": 120.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-01-12T01:06:33.5910595Z",
+        "transactionType": "Get Amount",
+        "amount": 30.0,
+        "amountGEL": 120.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-01-12T01:06:18.221246Z",
+        "transactionType": "Deposit Check",
+        "amount": 0.0,
+        "amountGEL": 150.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-01-12T00:24:03.7569477Z",
+        "transactionType": "Change Pin",
+        "amount": 0.0,
+        "amountGEL": 150.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-01-12T00:22:29.3628723Z",
+        "transactionType": "Change Pin",
+        "amount": 0.0,
+        "amountGEL": 150.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-01-12T00:19:16.0048191Z",
+        "transactionType": "Change Pin",
+        "amount": 0.0,
+        "amountGEL": 150.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-01-12T00:18:43.1049894Z",
+        "transactionType": "Change Pin",
+        "amount": 0.0,
+        "amountGEL": 150.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-01-12T00:13:55.7707298Z",
+        "transactionType": "Change Pin",
+        "amount": 0.0,
+        "amountGEL": 150.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-01-12T00:10:45.2762052Z",
+        "transactionType": "Change Pin",
+        "amount": 0.0,
+        "amountGEL": 150.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-01-12T00:10:36.8999963Z",
+        "transactionType": "Deposit Check",
+        "amount": 0.0,
+        "amountGEL": 150.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-01-12T00:07:19.3536996Z",
+        "transactionType": "Change Pin",
+        "amount": 0.0,
+        "amountGEL": 150.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-01-11T23:53:01.2573363Z",
+        "transactionType": "Change Pin",
+        "amount": 0.0,
+        "amountGEL": 150.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-01-11T23:50:29.9876446Z",
+        "transactionType": "Change Pin",
+        "amount": 0.0,
+        "amountGEL": 150.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-01-11T23:48:50.0250245Z",
+        "transactionType": "Deposit Check",
+        "amount": 0.0,
+        "amountGEL": 150.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-01-11T23:44:42.3692332Z",
+        "transactionType": "Change Pin",
+        "amount": 0.0,
+        "amountGEL": 150.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-01-03T10:15:30Z",
+        "transactionType": "ChangePin",
+        "amount": 0.0,
+        "amountGEL": 150.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-01-03T10:15:30Z",
+        "transactionType": "DepositCheck",
+        "amount": 0.0,
+        "amountGEL": 100.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-01-02T15:45:00Z",
+        "transactionType": "GetAmount",
+        "amount": 500.0,
+        "amountGEL": 500.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-01-01T08:20:45Z",
+        "transactionType": "FillAmount",
+        "amount": 600.0,
+        "amountGEL": 600.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-01-01T08:20:45Z",
+        "transactionType": "Balance Inquiry",
+        "amount": 0.0,
+        "amountGEL": 0.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      }
+    ]
+  },
+  {
+    "firstName": "David",
+    "lastName": "Bowe",
+    "cardDetails": {
+      "cardNumber": "12345",
+      "expirationDate": "12/24",
+      "CVC": "321"
+    },
+    "pinCode": "1234",
+    "transactionHistory": [
+      {
+        "transactionDate": "2024-01-12T14:08:34.2809583Z",
+        "transactionType": "Deposit Check",
+        "amount": 45.0,
+        "amountGEL": 55.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-01-11T23:25:17.9732384Z",
+        "transactionType": "Deposit Check",
+        "amount": 45.0,
+        "amountGEL": 55.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-01-11T22:56:56.0757221Z",
+        "transactionType": "Deposit Check",
+        "amount": 45.0,
+        "amountGEL": 55.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-01-11T22:56:45.5574655Z",
+        "transactionType": "Get Amount",
+        "amount": 45.0,
+        "amountGEL": 55.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-01-11T22:56:29.5258984Z",
+        "transactionType": "Deposit Check",
+        "amount": 0.0,
+        "amountGEL": 100.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-01-11T22:52:32.5547164Z",
+        "transactionType": "Deposit Check",
+        "amount": 0.0,
+        "amountGEL": 100.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-01-11T22:51:54.438616Z",
+        "transactionType": "Deposit Check",
+        "amount": 0.0,
+        "amountGEL": 100.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-01-03T10:15:30Z",
+        "transactionType": "ChangePin",
+        "amount": 0.0,
+        "amountGEL": 100.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-01-03T10:15:30Z",
+        "transactionType": "DepositCheck",
+        "amount": 0.0,
+        "amountGEL": 100.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-01-02T15:45:00Z",
+        "transactionType": "GetAmount",
+        "amount": 500.0,
+        "amountGEL": 100.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-01-01T08:20:45Z",
+        "transactionType": "FillAmount",
+        "amount": 600.0,
+        "amountGEL": 600.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-01-01T08:20:45Z",
+        "transactionType": "Balance Inquiry",
+        "amount": 0.0,
+        "amountGEL": 0.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      }
+    ]
+  }
+]

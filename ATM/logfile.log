@@ -1,0 +1,16 @@
+ -------------- Error (2024-01-12 15:48:01.6924) --------------
+ 
+ Call Site: Program.Main
+ Exception Type: System.DivideByZeroException
+ Exception Message: Attempted to divide by zero.
+ Stack Trace:    at Program.Main() in C:\Users\george.chkhaidze\source\repos\ATM\ATM\Program.cs:line 20
+ Additional Info: Error: Attempted to divide by zero.
+
+ -------------- Error (2024-01-12 18:13:03.4637) --------------
+ 
+ Call Site: Program.Main
+ Exception Type: System.DivideByZeroException
+ Exception Message: Attempted to divide by zero.
+ Stack Trace:    at Program.Main() in C:\Users\george.chkhaidze\source\repos\ATM\ATM\Program.cs:line 20
+ Additional Info: Error: Attempted to divide by zero.
+

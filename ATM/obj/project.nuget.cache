@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "5oa3IAf11w4f5Z0rrvOgnZHqzUQ4TyX6tpjzhX+7PaKCfEzYYPlFd9ZYk+bGYUS9yMr1Gp4p0kDa9PgXeigTYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\george.chkhaidze\\source\\repos\\ATM\\ATM\\BANKING_APPLICATION.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\george.chkhaidze\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\george.chkhaidze\\.nuget\\packages\\nlog\\5.2.8\\nlog.5.2.8.nupkg.sha512",
+    "C:\\Users\\george.chkhaidze\\.nuget\\packages\\nlog.config\\4.7.15\\nlog.config.4.7.15.nupkg.sha512",
+    "C:\\Users\\george.chkhaidze\\.nuget\\packages\\nlog.schema\\4.7.15\\nlog.schema.4.7.15.nupkg.sha512"
+  ],
+  "logs": []
+}
